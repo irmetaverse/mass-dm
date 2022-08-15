@@ -208,4 +208,4 @@ async def resolve(ctx, error):
 		return
 
 # Run Client - duh!
-client.run("")
+client.run(token)
